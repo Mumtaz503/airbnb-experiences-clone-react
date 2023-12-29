@@ -1,0 +1,95 @@
+.images-container {
+    width: 400px;
+    height: 232px;
+    position: relative;
+    margin-top: 11%;
+    margin-bottom: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+.image-28 {
+    position: absolute;
+    top: 37%;
+    transform: translateY(-37%);
+}
+
+.images-container-2 {
+    margin-left: 80px;
+    height: 232px;
+    display: flex;
+    flex-direction: column;
+}
+
+.image-30 {
+    position: absolute;
+    top: 5%;
+    transform: translateY(-5%);
+}
+
+.image-26 {
+    position: absolute;
+    top: 60%;
+    transform: translateY(-60%);
+}
+
+.images-container-3 {
+    margin-left: 82px;
+    height: 232px;
+    display: flex;
+    flex-direction: column;
+}
+
+.image-27 {
+    position: absolute;
+    top: 23%;
+    transform: translateY(-23%);
+}
+
+.image-29 {
+    position: absolute;
+    top: 100%;
+    transform: translateY(-100%)
+}
+
+.images-container-4 {
+    margin-left: 82px;
+    height: 232px;
+    display: flex;
+    flex-direction: column;
+}
+
+.image-22 {
+    position: absolute;
+}
+
+.image-23 {
+    position: absolute;
+    top: 78%;
+    transform: translateY(-78%);
+}
+
+.images-container-5 {
+    margin-left: 82px;
+    height: 232px;
+    display: flex;
+    flex-direction: column;
+}
+
+.image-25 {
+    position: absolute;
+    top: 13%;
+    transform: translateY(-13%);
+}
+
+.image-24 {
+    position: absolute;
+    top: 90%;
+    transform: translateY(-90%);
+}
+

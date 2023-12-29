@@ -1,0 +1,25 @@
+.experiences-container {
+    width: 347px;
+    margin-left: 37%;
+    position: relative;
+}
+
+.experiences-container h1 {
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 110%;
+}
+
+.desc {
+    width: 320px;
+    height: 28px;
+    color: #222;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 110%;
+}
