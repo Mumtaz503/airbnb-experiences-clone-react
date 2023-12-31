@@ -1,7 +1,8 @@
 .experiences-container {
     width: 347px;
-    margin-left: 37%;
-    position: relative;
+    margin-left: 15%;
+    position: absolute;
+    margin-top: 25%;
 }
 
 .experiences-container h1 {
