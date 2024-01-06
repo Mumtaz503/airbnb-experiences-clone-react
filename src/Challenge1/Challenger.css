@@ -1,0 +1,95 @@
+.katie {
+    position: absolute;
+    top: 521px;
+    left: 37px;
+    height: fit-content;
+}
+
+.challenge {
+    width: 176px;
+    height: 235px;
+    background-color: blue;
+    border-radius: 9px;
+    overflow: hidden;
+}
+
+.sold-out-label {
+    width: 61px;
+    height: 21px;
+    position: relative;
+    top: 30px;
+    left: 10px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10.24px;
+    font-style: normal;
+    line-height: 110%;
+    border-radius: 2px;
+}
+
+.image-12 {
+    width: 176px;
+    height: 235px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.description {
+    width: 176px;
+    height: 58px;
+    margin-top: 5px;
+}
+
+.desc--container--1 {
+    display: flex;
+    flex-direction: row;
+    max-height: 14px;
+    align-items: center;
+}
+
+.desc--container--1 p {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 110%;
+    margin-left: 3px;
+}
+
+.transparent {
+    color: #918E9B;
+}
+
+.desc--container--2 {
+    height: 14px;
+    width: 100%;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 110%;
+}
+
+.desc--container--3 {
+    display: flex;
+    flex-direction: row;
+    max-height: 14px;
+    align-items: center;
+    margin-top: 5px;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 110%;
+}
+
+.bold {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 110%;
+}
+
+.person {
+    margin-left: 3px;
+}

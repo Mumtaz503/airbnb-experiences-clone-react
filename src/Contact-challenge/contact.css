@@ -1,0 +1,29 @@
+/* 
+body {
+    background-color: darkgray;
+} */
+.contacts {
+    background-color: aliceblue;
+    width: 190px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contacts h3 {
+    margin: 0;
+}
+
+.info--groups img{
+    height: 15px;
+    width: 15px;
+}
+
+.info--groups {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 12px;
+    gap: 3px;
+}
