@@ -1,5 +1,10 @@
+.cards {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
 .katie {
-    position: absolute;
     top: 521px;
     left: 37px;
     height: fit-content;

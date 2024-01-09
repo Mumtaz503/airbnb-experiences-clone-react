@@ -2,25 +2,18 @@ import './App.css';
 import NavBar from './NavBar/NavBar';
 import Images from './ImagesContainer/Images';
 import Experiences from './Experiences/Experiences';
-import Challenge from './Challenge1/Challenge';
+import CardComponent from './Challenge1/CardComponent';
 import Contact from './Contact-challenge/Contact';
+import Challenge2 from './Challenger2/Challenge2';
 
 function App() {
   return (
     <div className="App">
+      {/* <Challenge2 /> */}
       <NavBar />
       <Images />
       <Experiences />
-      <div>
-        <Challenge 
-          img="/image12.png"
-          rating="5.0"
-          reviewCount={6}
-          country="PL"
-          title="life lessons with Katie Zaferes"
-          price={136}
-        />
-      </div>
+      <CardComponent />
       {/* <Contact 
         img="/image22.png"
         name="Katie"
@@ -44,3 +37,5 @@ function App() {
 }
 
 export default App;
+
+//Build all the remaining experiences using props
